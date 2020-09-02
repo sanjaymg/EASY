@@ -18,12 +18,31 @@ body {
        
        
 }
-.cardd:hover {
+#first .cardd:hover {
     transition: all 1.5s ease-out;
     transform:translateY(20px);
     background-color: rgba(116, 114, 231, 0.03);
     border-radius: 15px;
 }
+#second .cardd:hover {
+    transition: all 1.5s ease-out;
+    transform:translateY(20px);
+    background-color: rgba(116, 114, 231, 0.03);
+    border-radius: 15px;
+}
+#third .cardd:hover {
+    transition: all 1.5s ease-out;
+    transform:translateY(20px);
+    background-color: rgba(116, 114, 231, 0.03);
+    border-radius: 15px;
+}
+#fourth .cardd:hover {
+    transition: all 1.5s ease-out;
+    transform:translateY(20px);
+    background-color: rgba(116, 114, 231, 0.03);
+    border-radius: 15px;
+}
+
 
 footer {
     font-family: Poppins,sans-serif;
